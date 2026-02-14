@@ -1,0 +1,1 @@
+Dataset can be downloaded at: https://www.kaggle.com/datasets/trolukovich/food11-image-dataset/data
